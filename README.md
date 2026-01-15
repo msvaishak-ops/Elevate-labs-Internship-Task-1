@@ -66,14 +66,6 @@ The final deliverable is a **comprehensive, research-oriented PDF** that explain
 - **AI Doc Maker** for structuring and refining documentation using prompts
 - **GitHub** for version control and submission
 
----
-
-## 📚 References
-- GeeksforGeeks – https://www.geeksforgeeks.org  
-- OWASP Top 10 – https://owasp.org/www-project-top-ten/
-
-> References were used only for understanding concepts.  
-> All explanations were written in my own words to demonstrate clarity and understanding.
 
 ---
 
